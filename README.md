@@ -1,5 +1,5 @@
 # PYTHON-5-NUMPY-1-Assignment_3.11439
-Assignment on PYTHON-5-NUMPY-1 Session
+
 PYTHON and NUMPY Assignment Submission for Session 3 of PYTHON-5 & NUMPY-1. 
 
 Files details are mentioned as below:
